@@ -1,5 +1,7 @@
 # Mahindra Lifespaces Property Chatbot
 
+## Description
+
 An intelligent AI-powered chatbot that provides comprehensive, context-aware answers about 13+ Mahindra Lifespaces properties across India. Built with Azure OpenAI and LangChain, it uses advanced RAG (Retrieval-Augmented Generation) with MMR (Maximal Marginal Relevance) retrieval for diverse yet relevant results. Features include conversation memory, smart deduplication, automatic hyperlink generation, and clean markdown formatting with ChromaDB vector search.
 
 ## Features
