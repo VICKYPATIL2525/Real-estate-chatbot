@@ -1,0 +1,9 @@
+# Environment
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Database
+chroma_db/
